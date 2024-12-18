@@ -35,6 +35,6 @@ python main.py --exp_num 0 --loss dfl --market nasdaq100 --cardinality 1.0 --sav
 | 2-Stage     | mse         |
 | DFL         | dfl         |
 
-Similarly, to run different market or cardinality, set the `--market` and '--cardinality' parameter 
+Similarly, to run different experiment number or market or cardinality, set the `--exp_num` and `--market` and `--cardinality` parameter.
 
-Additionally, 'save_mode' parameter can be used for saving cvxpy problems for computational efficiency
+Additionally, `--save_mode` parameter can be used for saving cvxpy problems for computational efficiency. 
