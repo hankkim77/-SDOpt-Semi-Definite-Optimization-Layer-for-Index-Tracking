@@ -1,7 +1,7 @@
 # SDOpt:Semi-Definite Optimization Layer for Index Tracking
 
 
-# Code for "SDOpt:Semi-Definite Optimization Layer for Index Tracking"
+This is the implementation of the paper  "SDOpt:Semi-Definite Optimization Layer for Index Tracking". All the implementations are written in Python3.
 
 ## Set up environment
 
