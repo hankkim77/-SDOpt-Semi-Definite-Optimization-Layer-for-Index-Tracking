@@ -2,6 +2,7 @@
 
 
 This is the implementation of the paper  "SDOpt:Semi-Definite Optimization Layer for Index Tracking". All the implementations are written in Python3.
+The experiments were conducted on a system with an Intel Xeon E5-2698 v4 CPU (@2.2GHz) and a Tesla V100-SXM2 GPU (16GB memory)
 
 ## Set up environment
 
